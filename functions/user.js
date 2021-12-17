@@ -602,5 +602,5 @@ module.exports = {
  
  /**
   * semua funtion belum sempurna, jika menemukan bug/kesalahan dalam penulisan, silahkan perbaiki
-  * @mrf.zvx
+  * @Gilbert
   */
